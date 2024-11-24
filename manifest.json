@@ -1,0 +1,12 @@
+{
+    "manifest_version": 3,
+    "name": "Random Jokes",
+    "version": "1.0.0",
+    "description": "It will appear a random joke",
+    "icons": {
+      "128": "icon.png"
+    },
+    "action": {
+        "default_popup": "popup.html"
+      }
+  }
